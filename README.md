@@ -1,0 +1,2 @@
+# ScalaSchool
+Revising Scala basics.
